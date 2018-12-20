@@ -1,2 +1,1 @@
-readme sample
-
+hugo site sample.
