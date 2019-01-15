@@ -1,0 +1,37 @@
+[
+    {
+        "role": "開発者(front)",
+        "company": "マーケティングサポート",
+        "summary": "マーケティング支援アプリ開発",
+        "range": "2018",
+        "detail": "react"
+    },
+    {
+        "role": "開発者(front)",
+        "company": "不動産事業",
+        "summary": "物件検索Webアプリ開発",
+        "range": "2017",
+        "detail": "angular2~5(typescript)"
+    },
+    {
+        "role": "開発者(front, back)",
+        "company": "Push通知サービス",
+        "summary": "WebPushを利用したブラウザ通知サービス開発",
+        "range": "2017",
+        "detail": "angular2(typescript), Go(push server) gcm/fcmを利用せずvapid認証で構築"
+    },
+    {
+        "role": "開発者(front)",
+        "company": "業務支援(海外のチームと合同開発)",
+        "summary": "angular1で作られたWebアプリを2へ移行",
+        "range": "2016",
+        "detail": "angular2"
+    },
+    {
+        "role": "チームリーダー(front, back)",
+        "company": "通信事業（WFとアジャイルの併用）",
+        "summary": "業務サポートアプリ開発（スクラムマスターと開発者を兼任）",
+        "range": "2012~2015",
+        "detail": "java6,7(seasar2, spring)、MongoDB, Jenkinsを用いた自動テスト～リリース環境の構築"
+    }
+]

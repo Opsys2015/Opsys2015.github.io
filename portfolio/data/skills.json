@@ -1,0 +1,57 @@
+[
+    {
+        "grouping": "言語、OS",
+        "skills": [
+            "Java(6年)",
+            "javascript(4年)",
+            "Go(1年)",
+            "Ruby(0.5年)",
+            "Windows",
+            "Linux"
+        ]
+    },
+    {
+        "grouping": "フレームワーク",
+        "skills": [
+            "angular",
+            "React",
+            "seasar2",
+            "Spring",
+            "wacs",
+            "rails",
+            "BootStrap",
+            "Pure"
+        ]
+    },
+    {
+        "grouping": "ミドルウェア",
+        "skills": [
+            "Atlassian",
+            "NGINX",
+            "MongoDB",
+            "MySQL",
+            "ORACLE",
+            "Postgresql",
+            "DB2",
+            "Apache",
+            "Tomcat"
+        ]
+    },
+    {
+        "grouping": "その他",
+        "skills": [
+            {
+                "name": "Docker"
+            },
+            {
+                "name": "AWS"
+            },
+            {
+                "name": "Jenkins"
+            },
+            {
+                "name": "CircleCI"
+            }
+        ]
+    }
+]
