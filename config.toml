@@ -1,4 +1,4 @@
-baseURL = "https://opsys2015.github.io/"
+baseURL = "https://Opsys2015.github.io/"
 languageCode = "ja"
 title = "portfolio"
 theme = "hugo-resume"
