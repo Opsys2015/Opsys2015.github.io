@@ -55,7 +55,7 @@ publishDir = "docs"
 #     icon = "key" #optional icon attribute used for Font Awesome icons, otherwise the name is lowercased.
 
 [params.google.analytics]
-    trackerID = "XX-123446-01"
+    trackerID = "UA-132838704-1"
 
 [outputs] #only required for search
     home = ["HTML", "JSON"]
