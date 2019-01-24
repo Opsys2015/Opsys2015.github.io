@@ -5,34 +5,38 @@
         "summary": "マーケティング支援アプリ開発",
         "range": "2018",
         "lang": "react",
-        "": ""
+        "details": ""
     },
     {
         "role": "開発者(front)",
         "company": "不動産事業",
         "summary": "物件検索Webアプリ開発",
         "range": "2017",
-        "lang": "angular2~5(typescript)"
+        "lang": "angular2~5(typescript)",
+        "details": "PC/SP画面の作成。"
     },
     {
         "role": "開発者(front, back)",
         "company": "Push通知サービス",
         "summary": "WebPushを利用したブラウザ通知サービス開発",
         "range": "2017",
-        "lang": "angular2(typescript), Go(push server) gcm/fcmを利用せずvapid認証で構築"
+        "lang": "angular2(typescript), Go(push/api server) gcm/fcmを利用せずvapid認証で構築",
+        "details": "管理画面、push/apiサーバー、配布スクリプトを作成。Go FW(Echo, sqlx)"
     },
     {
         "role": "開発者(front)",
         "company": "業務支援(海外のチームと合同開発)",
         "summary": "angular1で作られたWebアプリを2へ移行",
         "range": "2016",
-        "lang": "angular2(typescript)"
+        "lang": "angular2(typescript)",
+        "details": "設計書なし、既存の画面とソースを参考に移行と機能追加"
     },
     {
         "role": "チームリーダー(front, back)",
         "company": "通信事業（WFとアジャイルの併用）",
         "summary": "業務サポートアプリ開発（スクラムマスターと開発者を兼任）",
-        "range": "2012~2015",
-        "lang": "java6,7(seasar2, spring)、MongoDB, Jenkinsを用いた自動テスト～リリース環境の構築"
+        "range": "2012~2015(SIer)",
+        "lang": "java6,7(seasar2, spring)、MongoDB, Jenkinsを用いた自動テスト～リリース環境の構築",
+        "details": "メンバー：5人前後(20～50代)。常に新人を入れつつメンバーの自主性などの向上を目指して、デイリースクラムやふりかえり会のファシリテーター交代制など色々と試行錯誤しながらチーム全体の成長に繋げた。"
     }
 ]
