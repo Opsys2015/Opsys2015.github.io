@@ -39,6 +39,9 @@ publishDir = "docs"
 [[params.handles]]
     name = "Facebook"
     link = "https://www.facebook.com/otsuka.opsys"
+[[params.handles]]
+    name = "Twitter"
+    link = "https://twitter.com/positiveGuitar"
 
 # [[params.handles]]
     # name = "Bitbucket"

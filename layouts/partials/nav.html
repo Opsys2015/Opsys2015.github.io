@@ -30,13 +30,15 @@
       </li>
       {{ end }}
       {{ if .Site.Params.showPublications }}
-      <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="/#publications">Publications</a>
-      </li>
-      {{ end }} */}}
+      */}}
       {{ if .Site.Params.showExperience }}
       <li class="nav-item">
         <a class="nav-link js-scroll-trigger" href="/#experience">開発経験</a>
+      </li>
+      {{ end }}
+      {{ if .Site.Params.showPublications }}
+      <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="/#publications">これから</a>
       </li>
       {{ end }}
       {{ if .Site.Params.showEducation }}
