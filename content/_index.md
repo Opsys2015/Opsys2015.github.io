@@ -10,4 +10,5 @@ outputs:
 - json
 ---
 <p>プログラミング未経験30歳のときIT業界へ転職。<br>SIerとしてJavaの業務Webアプリ開発メインに活動、上流～保守/フロント～バックエンドの経験を経て37歳フリーランスに転身。<br>屋号:Opsys(オプシス) <br>現在はJs(angular, React)をメインにフロントエンジニア（バックエンドも）として活動中。</p>
-<p style="margin-top: 50px; color: #BD5D38">このページはHugo + github pagesで作成しています。<br>独自ドメイン利用しなければ無料だし、本当に楽です</p>
+<p style="margin-top: 50px; color: #BD5D38">このページはHugo + github pagesで作成しています。(<a style="font-weight: bold" href="https://themes.gohugo.io/hugo-resume/">Themes: Resume</a>
+)<br>独自ドメイン利用しなければ無料だし、本当に楽です</p>
