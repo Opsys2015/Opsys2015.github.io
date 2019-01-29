@@ -29,11 +29,6 @@
   </url>
   
   <url>
-    <loc>https://Opsys2015.github.io/publications/</loc>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://Opsys2015.github.io/search/</loc>
     <priority>0.1</priority>
   </url>
