@@ -6,7 +6,8 @@
         "range": "2018",
         "lang": "react",
         "details": "react-saga利用。",
-        "learned": "reactを利用したアプリ作成。1wスクラム。マーケティング支援ツールの今。"
+        "learned": "react。1wスクラム。マーケティング支援ツールの今。",
+        "otherwise": ""
     },
     {
         "role": "開発者(front)",
@@ -15,16 +16,18 @@
         "range": "2017",
         "lang": "angular2~5(typescript)",
         "details": "PC/SP画面の作成。地域、路線、条件選択～検索結果一覧～物件詳細の構成。",
-        "learned": "spを対象としたUI。angularのupdate。"
+        "learned": "spを対象としたUI。angularのupdate。docker。",
+        "otherwise": ""
     },
     {
         "role": "開発者(front, back)",
         "company": "Push通知サービス",
         "summary": "WebPushを利用したブラウザ通知サービス開発",
         "range": "2017",
-        "lang": "angular2(typescript), Go(push/api server) gcm/fcmを利用せずvapid認証で構築",
+        "lang": "angular2(typescript), Go(push/app server) gcm/fcmを利用せずvapid認証で構築",
         "details": "管理画面、push/apiサーバー、配布スクリプトを作成。Go FW(Echo, sqlx)",
-        "learned": ""
+        "learned": "Push API, ServiceWorker, VAPIDなどWebPushに伴う技術とGolang。",
+        "otherwise": ""
     },
     {
         "role": "開発者(front)",
@@ -33,7 +36,8 @@
         "range": "2016",
         "lang": "angular2(typescript)",
         "details": "既存の画面とソースを参考にangular2への移行と機能追加を実施。",
-        "learned": ""
+        "learned": "angular。リモート（海外との時差）を含めた開発の進め方。",
+        "otherwise": "デイリースクラムは英語でしたが話せないため、事前にいくつかの翻訳にかけてまとめたり、質問されそうなことを準備することで対応していました。"
     },
     {
         "role": "チームリーダー(front, back)",
@@ -42,6 +46,7 @@
         "range": "2012~2015(SIer)",
         "lang": "java6,7(seasar2, spring)、MongoDB, Jenkinsを用いた自動テスト～リリース環境の構築",
         "details": "メンバー：5人前後(20～50代)。常に新人を入れつつメンバーの自主性などの向上を目指して、デイリースクラムやふりかえり会のファシリテーター交代制など色々と試行錯誤しながらチーム全体の成長に繋げた。",
-        "learned": ""
+        "learned": "スクラムでのチーム運用とマネージメント。ciツール(一部ant)での自動テスト／デプロイ環境の構築。",
+        "otherwise": "連携が必要な他チームはWFのままでしたので、WFとスクラムの良いところを常に考え取り込みながらチーム運用をしていました。"
     }
 ]

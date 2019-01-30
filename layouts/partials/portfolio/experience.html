@@ -12,9 +12,12 @@
         <a data-toggle="collapse" href="#details{{$i}}" role="button" aria-expanded="false" aria-controls="details">詳細
         </a>
         <div class="collapse" id="details{{$i}}" style="background:azure;">
-          <div>備考：{{ .details }}</div>
+          <div>◆詳細：{{ .details }}</div>
           {{if .learned }}
-          <div>学んだこと：{{ .learned }}</div>
+          <div>◆学んだこと：{{ .learned }}</div>
+          {{ end }}
+          {{if .otherwise }}
+          <div>◆その他：{{ .otherwise }}</div>
           {{ end }}
         </div>
         {{ end }}
