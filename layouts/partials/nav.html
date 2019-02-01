@@ -46,6 +46,11 @@
         <a class="nav-link js-scroll-trigger" href="/#education">その他</a>
       </li>
       {{ end }}
+      {{ if .Site.Params.showHistory }}
+      <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="/#history">おまけ（履歴）</a>
+      </li>
+      {{ end }}
       {{/* {{ if .Site.Params.showBlog }}
       <li class="nav-item">
         <a class="nav-link js-scroll-trigger" href="/#blog">Blog</a>

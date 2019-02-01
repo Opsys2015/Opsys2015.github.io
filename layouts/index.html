@@ -16,4 +16,8 @@
 {{ partial "portfolio/education.html" . }}
 {{ end }}
 
+{{ if .Site.Params.showHistory }}
+{{ partial "portfolio/history.html" . }}
+{{ end }}
+
 {{ end }}
