@@ -13,7 +13,7 @@ publishDir = "docs"
     profileImage = "img/me.png"
     email = "otsuka.opsys@gmail.com"
     description = ""
-    favicon = "images/favicon.ico"
+    favicon = "favicon.ico"
 
     # what sections to display.  Setting to false disables navigation and section.
     showSkills = true
