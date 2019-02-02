@@ -16,8 +16,8 @@
     <!-- End Google Tag Manager -->
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>{{ .Title }}</title>
-    <meta property="og:url" content="{{ .Site.Params.baseURL }}" />
-    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://Opsys2015.github.io/" />
+    <meta property="og:type" content="profile" />
     <meta property="og:title" content="{{ .Title }}" />
     <meta property="og:image" content="{{ .Site.Params.profileImage | absURL }}" />
     <meta name="description" content="{{ .Site.Params.description }}">
@@ -25,7 +25,7 @@
     <meta name="author" content="{{ .Site.Params.firstName }} {{ .Site.Params.lastName }}">
     <!-- twitter -->
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@positiveGuitar">
+    <meta name="twitter:site" content="{{ .Site.Params.twitterUser }}">
     <meta name="twitter:title" content="{{ .Title }}">
     <meta name="twitter:description" content="{{ .Site.Params.description }}">
     <!-- favicon -->

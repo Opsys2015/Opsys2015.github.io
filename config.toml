@@ -14,6 +14,7 @@ publishDir = "docs"
     email = "otsuka.opsys@gmail.com"
     description = "ITエンジニア(フリーランス)のポートフォリオ。30歳（未経験）からSIerを経て現在に至る。"
     favicon = "favicon.ico"
+    twitterUser ="@positiveGuitar"
 
     # what sections to display.  Setting to false disables navigation and section.
     showSkills = true
