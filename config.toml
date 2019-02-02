@@ -1,6 +1,6 @@
 baseURL = "https://Opsys2015.github.io/"
 languageCode = "ja"
-title = "portfolio"
+title = "Yuki Otsukaのポートフォリオ"
 theme = "hugo-resume"
 publishDir = "docs"
 

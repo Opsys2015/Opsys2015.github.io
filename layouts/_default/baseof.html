@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ja">
 
   <head>
     <meta charset="utf-8">
@@ -16,6 +16,8 @@
     <!-- End Google Tag Manager -->
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>{{ .Title }}</title>
+    <meta property="og:url" content="{{ .Site.Params.baseURL }}" />
+    <meta property="og:type" content="website" />
     <meta property="og:title" content="{{ .Title }}" />
     <meta property="og:image" content="{{ .Site.Params.profileImage | absURL }}" />
     <meta name="description" content="{{ .Site.Params.description }}">
@@ -26,7 +28,6 @@
     <meta name="twitter:site" content="@positiveGuitar">
     <meta name="twitter:title" content="{{ .Title }}">
     <meta name="twitter:description" content="{{ .Site.Params.description }}">
-    <meta property="og:image" content="{{ .Site.Params.profileImage | absURL}}">
     <!-- favicon -->
     <link rel="shortcut icon" href="{{ .Site.Params.favicon }}">
     <!-- Bootstrap core CSS -->
