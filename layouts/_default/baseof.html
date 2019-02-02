@@ -19,7 +19,7 @@
     <meta property="og:url" content="https://Opsys2015.github.io/" />
     <meta property="og:type" content="profile" />
     <meta property="og:title" content="{{ .Title }}" />
-    <meta property="og:image" content="{{ .Site.Params.profileImage | absURL }}" />
+    <meta property="og:image" content="{{ .Site.Params.thumbnailImage | absURL }}" />
     <meta name="description" content="{{ .Site.Params.description }}">
     <meta property="og:description" content="{{ .Site.Params.description }}" />
     <meta name="author" content="{{ .Site.Params.firstName }} {{ .Site.Params.lastName }}">
@@ -28,6 +28,7 @@
     <meta name="twitter:site" content="{{ .Site.Params.twitterUser }}">
     <meta name="twitter:title" content="{{ .Title }}">
     <meta name="twitter:description" content="{{ .Site.Params.description }}">
+    <meta name="twitter:image" content="{{ .Site.Params.profileImage | absURL }}" />
     <!-- favicon -->
     <link rel="shortcut icon" href="{{ .Site.Params.favicon }}">
     <!-- Bootstrap core CSS -->

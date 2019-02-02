@@ -11,6 +11,7 @@ publishDir = "docs"
     phone = ""
     contactNote = "フロントエンジニア" #used in QR code only
     profileImage = "img/me.png"
+    thumbnailImage = "img/thumbnail.png"
     email = "otsuka.opsys@gmail.com"
     description = "ITエンジニア(フリーランス)のポートフォリオ。30歳（未経験）からSIerを経て現在に至る。"
     favicon = "favicon.ico"
