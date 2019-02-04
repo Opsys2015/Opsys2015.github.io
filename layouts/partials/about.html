@@ -8,7 +8,7 @@
         </h1>
         <div style="font-size: 15px">お問い合わせ：下記メールかSNSにてお願いします。</div>
         <div class="subheading mb-5">{{ .Site.Params.address }} ·
-          <a id="mailSend" href="mailto:{{ substr .Site.Params.email 0 6}}{{ substr .Site.Params.email 6 }}">
+          <a id="mailSend" href="mailto:{{ substr .Site.Params.email 0 6}}{{ substr .Site.Params.email 6 }}" target="_blank">
             {{ substr .Site.Params.email 0 6}}
             {{ substr .Site.Params.email 6 }}
           </a>
