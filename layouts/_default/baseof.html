@@ -16,15 +16,15 @@
     <!-- End Google Tag Manager -->
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>{{ .Title }}</title>
-    <meta property="og:url" content="https://Opsys2015.github.io/" />
-    <meta property="og:type" content="profile" />
+    <meta property="og:url" content="{{ .Site.BaseURL }}" />
+    <meta property="og:type" content="{{ .Site.Params.ogType }}" />
     <meta property="og:title" content="{{ .Title }}" />
     <meta property="og:image" content="{{ .Site.Params.thumbnailImage | absURL }}" />
     <meta name="description" content="{{ .Site.Params.description }}">
     <meta property="og:description" content="{{ .Site.Params.description }}" />
     <meta name="author" content="{{ .Site.Params.firstName }} {{ .Site.Params.lastName }}">
     <!-- twitter -->
-    <meta name="twitter:card" content="summary">
+    <meta name="twitter:card" content="{{ .Site.Params.twitterCard }}">
     <meta name="twitter:site" content="{{ .Site.Params.twitterUser }}">
     <meta name="twitter:title" content="{{ .Title }}">
     <meta name="twitter:description" content="{{ .Site.Params.description }}">
