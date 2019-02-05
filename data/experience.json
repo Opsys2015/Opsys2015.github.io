@@ -5,19 +5,19 @@
         "summary": "マーケティング支援アプリ開発",
         "range": "2018",
         "lang": "react",
-        "details": "react-saga利用。",
+        "details": "redux-saga利用。",
         "learned": "react。1wスクラム。マーケティング支援ツールの今。",
         "otherwise": "react未経験でもコンポーネント指向のFW経験があれば対応可能ですね。お作法の学習コストはありますが、他のFWとの比較をして良い悪いではなく「まずは受け入れる」精神が役に立った現場です。"
     },
     {
         "role": "開発者(front)",
         "company": "不動産事業",
-        "summary": "物件検索Webアプリ開発",
+        "summary": "物件検索Webアプリ開発と保守",
         "range": "2017",
-        "lang": "angular2~5(typescript)",
+        "lang": "angular2~5(typescript), Ruby",
         "details": "PC/SP画面の作成。地域、路線、条件選択～検索結果一覧～物件詳細の構成。",
-        "learned": "spを対象としたUI。angularのupdate。docker。",
-        "otherwise": ""
+        "learned": "SEO対策やga/gtm。spを対象としたUI。angularのupdate。docker。",
+        "otherwise": "サーバーレスで構築。angularのAOT利用。"
     },
     {
         "role": "開発者(front, back)",
@@ -41,7 +41,7 @@
     },
     {
         "role": "開発者(front)",
-        "company": "美容系Webアプリの保守開発。",
+        "company": "美容系Webアプリの保守開発",
         "summary": "既存機能改善や作業ツールの新規作成。",
         "range": "2015",
         "lang": "Java7,8(独自FW)、Backbone.js",
