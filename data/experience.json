@@ -7,7 +7,7 @@
         "lang": "react",
         "details": "react-saga利用。",
         "learned": "react。1wスクラム。マーケティング支援ツールの今。",
-        "otherwise": ""
+        "otherwise": "react未経験でもコンポーネント指向のFW経験があれば対応可能ですね。お作法の学習コストはありますが、他のFWとの比較をして良い悪いではなく「まずは受け入れる」精神が役に立った現場です。"
     },
     {
         "role": "開発者(front)",
@@ -24,7 +24,7 @@
         "company": "Push通知サービス",
         "summary": "WebPushを利用したブラウザ通知サービス開発",
         "range": "2017",
-        "lang": "angular2(typescript), Go(push/app server) gcm/fcmを利用せずvapid認証で構築",
+        "lang": "angular2(typescript), Go(push/api server) gcm/fcmを利用せずvapid認証で構築",
         "details": "管理画面、push/apiサーバー、配布スクリプトを作成。Go FW(Echo, sqlx)",
         "learned": "Push API, ServiceWorker, VAPIDなどWebPushに伴う技術とGolang。",
         "otherwise": ""
@@ -40,11 +40,21 @@
         "otherwise": "デイリースクラムは英語でしたが話せないため、事前にいくつかの翻訳にかけてまとめたり、質問されそうなことを準備することで対応していました。"
     },
     {
+        "role": "開発者(front)",
+        "company": "美容系Webアプリの保守開発。",
+        "summary": "既存機能改善や作業ツールの新規作成。",
+        "range": "2015",
+        "lang": "Java7,8(独自FW)、Backbone.js",
+        "details": "既存の保守をしつつ、開発で必要なツール（ExcelでQuery作成）をWebアプリで作成。",
+        "learned": "jsフレームワーク。",
+        "otherwise": ""
+    },
+    {
         "role": "チームリーダー(front, back)",
         "company": "通信事業（WFとスクラムの併用）",
         "summary": "業務サポートアプリ開発（スクラムマスターと開発者を兼任）",
         "range": "2012~2015(SIer)",
-        "lang": "java6,7(seasar2, spring)、MongoDB, Jenkinsを用いた自動テスト～リリース環境の構築",
+        "lang": "java6,7(seasar2, spring)、jQuery、MongoDB, Jenkinsを用いた自動テスト～リリース環境の構築",
         "details": "メンバー：5人前後(20～50代)。常に新人を入れつつメンバーの自主性などの向上を目指して、デイリースクラムやふりかえり会のファシリテーター交代制など色々と試行錯誤しながらチーム全体の成長に繋げた。",
         "learned": "スクラムでのチーム運用とマネージメント。ciツール(一部ant)での自動テスト／デプロイ環境の構築。",
         "otherwise": "連携が必要な他チームはWFのままでしたので、WFとスクラムの良いところを常に考え取り込みながらチーム運用をしていました。"
