@@ -19,27 +19,15 @@
         <a class="nav-link js-scroll-trigger" href="/#skills">Skills</a>
       </li>
       {{ end }}
-      {{/* {{ if .Site.Params.showProjects }}
-      <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="/#projects">Projects</a>
-      </li>
-      {{ end }}
-      {{ if .Site.Params.showOpenSource }}
-      <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="/#open">Open Source</a>
-      </li>
-      {{ end }}
-      {{ if .Site.Params.showPublications }}
-      */}}
       {{ if .Site.Params.showExperience }}
       <li class="nav-item">
         <a class="nav-link js-scroll-trigger" href="/#experience">開発経験</a>
       </li>
       {{ end }}
       {{ if .Site.Params.showPublications }}
-      <li class="nav-item">
+      <!-- <li class="nav-item">
         <a class="nav-link js-scroll-trigger" href="/#publications">これから</a>
-      </li>
+      </li> -->
       {{ end }}
       {{ if .Site.Params.showEducation }}
       <li class="nav-item">
@@ -51,11 +39,6 @@
         <a class="nav-link js-scroll-trigger" href="/#history">おまけ（履歴）</a>
       </li>
       {{ end }}
-      {{/* {{ if .Site.Params.showBlog }}
-      <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="/#blog">Blog</a>
-      </li>
-      {{ end }} */}}
     </ul>
   </div>
 </nav>
