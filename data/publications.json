@@ -1,31 +1,25 @@
 [
-    {
-        "title": "何も知らずITに飛び込んで10年の気づき",
-        "items": [
-            {
-                "item": "培われたもの、まだ取得できていないもの（伸びしろ）",
-                "detail": "",
-                "otherwise": "",
-                "otherwise2": ""
-            },
-            {
-                "item": "バランサータイプの行く末",
-                "detail": "",
-                "otherwise": "",
-                "otherwise2": ""
-            },
-            {
-                "item": "トレンドをいつまで追い続けるのか",
-                "detail": "",
-                "otherwise": "",
-                "otherwise2": ""
-            },
-            {
-                "item": "",
-                "detail": "",
-                "otherwise": "",
-                "otherwise2": ""
-            }
-        ]
-    }
+  {
+    "title": "業務外でやっていること、今後やりたい技術など",
+    "items": [
+      {
+        "item": "vue(typescript)",
+        "detail": "Webアプリ",
+        "otherwise": "github pages ==> netlifyに移行",
+        "otherwise2": "趣味の多肉植物管理をアプリ化。webapiで外部情報取得やfirebase連携を予定"
+      },
+      {
+        "item": "flutter",
+        "detail": "ネイティブアプリ",
+        "otherwise": "記事を見て興味が沸いた",
+        "otherwise2": "vueのWebアプリをネイティブ化にしてみたい"
+      },
+      {
+        "item": "",
+        "detail": "",
+        "otherwise": "",
+        "otherwise2": ""
+      }
+    ]
+  }
 ]
