@@ -3,13 +3,9 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://Opsys2015.github.io/projects/creations/</loc>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://Opsys2015.github.io/projects/contributions/</loc>
-    <priority>0.5</priority>
+    <loc>https://Opsys2015.github.io/privacy/</loc>
+    <lastmod>2019-03-13T00:00:00+00:00</lastmod>
+    <priority>1</priority>
   </url>
   
   <url>
@@ -21,11 +17,6 @@
   <url>
     <loc>https://Opsys2015.github.io/categories/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://Opsys2015.github.io/projects/</loc>
-    <priority>0.9</priority>
   </url>
   
   <url>
