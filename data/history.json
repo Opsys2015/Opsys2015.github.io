@@ -1,10 +1,65 @@
 [
   {
-    "title": "",
+    "title": "20代～ふらふら時代～",
     "items": [
       {
-        "item": "",
-        "detail": "",
+        "item": "音楽専門学校",
+        "detail": "・・・",
+        "otherwise": ""
+      },
+      {
+        "item": "フリーター、音響、工場",
+        "detail": "・・・",
+        "otherwise": ""
+      }
+    ]
+  },
+  {
+    "title": "30代～SIer時代～",
+    "items": [
+      {
+        "item": "SIerに転職。Java覚える",
+        "detail": "・・・",
+        "otherwise": ""
+      },
+      {
+        "item": "メガバンク案件。とにかく必死",
+        "detail": "・・・",
+        "otherwise": ""
+      },
+      {
+        "item": "地元のSIerに転職。でも勤務先は都内",
+        "detail": "・・・",
+        "otherwise": ""
+      },
+      {
+        "item": "某通信事業会社案件。はじめてのアジャイル",
+        "detail": "・・・",
+        "otherwise": ""
+      }
+    ]
+  },
+  {
+    "title": "30代～フリーランス時代～",
+    "items": [
+      {
+        "item": "フリーでの初案件でこける",
+        "detail": "・・・",
+        "otherwise": ""
+      },
+      {
+        "item": "Java案件に疲れた！　時代はJSだ！と方向転換する",
+        "detail": "Javaが悪いわけじゃないけどね",
+        "otherwise": "・・・"
+      },
+      {
+        "item": "海外エンジニアとの共同開発",
+        "detail": "・・・",
+        "otherwise": ""
+      },
+      {
+        "item": "Angular, React, Vue",
+        "detail": "・・・",
         "otherwise": ""
       }
     ]

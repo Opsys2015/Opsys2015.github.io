@@ -8,9 +8,10 @@
         </h1>
         <div>ようこそ！こちらはフリーランスエンジニア【大塚 裕喜(おおつか ゆうき)】のポートフォリオです。</div>
         <div style="font-size: 15px">お問い合わせ：下記メールかSNSにてお願いします。</div>
-        <div class="subheading mb-5">{{ .Site.Params.address }} ·
+        <div class="subheading mb-5">{{ .Site.Params.address }}
           <a id="mailSend" href="mailto:{{ substr .Site.Params.email 0 6}}{{ substr .Site.Params.email 6 }}?subject=【お問い合わせ】ポートフォリオから"
             target="_blank">
+            <i class="fas fa-envelope"></i>
             {{ substr .Site.Params.email 0 6}}
             {{ substr .Site.Params.email 6 }}
           </a>
