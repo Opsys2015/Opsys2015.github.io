@@ -2,8 +2,8 @@
   {
     "grouping": "言語、OS",
     "skills": [
-      "Java",
       "javascript",
+      "Java",
       "Go",
       "Ruby",
       "Windows",
@@ -15,12 +15,15 @@
     "skills": [
       "angular",
       "React",
+      "vue",
       "seasar2",
       "Spring Framework",
       "wacs",
       "rails",
       "BootStrap",
-      "Pure"
+      "Pure",
+      "Bulma",
+      "その他（Java独自フレームワーク）"
     ]
   },
   {
