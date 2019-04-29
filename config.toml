@@ -56,11 +56,6 @@ publishDir = "docs"
 #     link = "https://stackoverflow.com/users/story/82880"
 #     icon = "stack-overflow" #optional icon attribute used for Font Awesome icons, otherwise the name is lowercased.
 
-# [[params.handles]]
-#     name = "Keybase"
-#     link = "https://keybase.io/edwardawebb"
-#     icon = "key" #optional icon attribute used for Font Awesome icons, otherwise the name is lowercased.
-
 [params.google.analytics]
     trackerID = "UA-132838704-1"
 
