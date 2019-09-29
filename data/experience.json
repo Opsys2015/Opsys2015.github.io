@@ -1,6 +1,24 @@
 [
   {
     "role": "開発者(front)",
+    "company": "マッチング支援",
+    "summary": "マッチングアプリ開発",
+    "range": "2019",
+    "lang": "vue(pug,styles), python(Django)",
+    "details": "全画面作成。カード決済処理。",
+    "learned": "pug(template), styles(css)。pug+vueのコストが思ったより大きかったこと。"
+  },
+  {
+    "role": "開発者(front)",
+    "company": "ビジネス支援",
+    "summary": "写真ビジネス支援アプリ開発",
+    "range": "2019",
+    "lang": "vue, python(Django)",
+    "details": "全画面作成。カード決済処理。",
+    "learned": "オフショアとの共同開発。初めてのpython。vue-cliを利用した本格的なWebアプリ開発。"
+  },
+  {
+    "role": "開発者(front)",
     "company": "マーケティングサポート",
     "summary": "マーケティング支援アプリ開発",
     "range": "2018",
