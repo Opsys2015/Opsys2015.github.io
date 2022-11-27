@@ -1,6 +1,24 @@
 [
   {
     "role": "開発者(front)",
+    "company": "不動産投資",
+    "summary": "Webサイトの保守開発",
+    "range": "2021~",
+    "lang": "Nuxt(Typescript)",
+    "details": "デザイン支援、メンバー支援、レビュアーなどフロントに関わるほぼ全てを担当。",
+    "learned": "Nuxt(SSRなど)。Nuxt3への移行(今後予定)"
+  },
+  {
+    "role": "開発者(front)/PM代行",
+    "company": "加熱式たばこサイト",
+    "summary": "保守開発(PM)",
+    "range": "2020",
+    "lang": "javascript(Stimulus,EJS)",
+    "details": "サイトの運用や新規開発。途中からPM兼任。",
+    "learned": "フリーランスという立場でのPMの難しさ。Stimulus、EJSでの開発。"
+  },
+  {
+    "role": "開発者(front)",
     "company": "マッチング支援",
     "summary": "マッチングアプリ開発",
     "range": "2019",
@@ -32,7 +50,7 @@
     "company": "不動産事業",
     "summary": "物件検索Webアプリ開発と保守",
     "range": "2017",
-    "lang": "angular2~5(typescript), Ruby",
+    "lang": "angular2~5(Typescript), Ruby",
     "details": "PC/SP画面の作成。地域、路線、条件選択～検索結果一覧～物件詳細の構成。",
     "learned": "SEO対策やga/gtm。spを対象としたUI。angularのupdate。docker。",
     "otherwise": "サーバーレスで構築。angularのAOT利用。"
@@ -42,7 +60,7 @@
     "company": "Push通知サービス",
     "summary": "WebPushを利用したブラウザ通知サービス開発",
     "range": "2017",
-    "lang": "angular2(typescript), Go(push/api server) gcm/fcmを利用せずvapid認証で構築",
+    "lang": "angular2(Typescript), Go(push/api server) gcm/fcmを利用せずvapid認証で構築",
     "details": "管理画面、push/apiサーバー、配布スクリプトを作成。Go FW(Echo, sqlx)",
     "learned": "Push API, ServiceWorker, VAPIDなどWebPushに伴う技術とGolang。",
     "otherwise": ""
@@ -52,7 +70,7 @@
     "company": "業務支援(海外のチームと合同開発)",
     "summary": "angular1で作られたWebアプリを2へ移行",
     "range": "2016",
-    "lang": "angular2(typescript)",
+    "lang": "angular2(Typescript)",
     "details": "既存の画面とソースを参考にangular2への移行と機能追加を実施。",
     "learned": "angular。リモート（海外との時差）を含めた開発の進め方。",
     "otherwise": "デイリースクラムはSkypeでヨーロッパと合同、英語で進捗や問題を報告していましたが、事前にいくつかの翻訳にかけてまとめたり、質問されそうなことを準備することで対応していました。"
